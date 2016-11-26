@@ -1,0 +1,14 @@
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\PR283assignment2\Filer\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\PR283assignment2\Filer\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\PR283assignment2\Filer\UnitTestProject1\bin\Debug\Filer.exe
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\PR283assignment2\Filer\UnitTestProject1\bin\Debug\Filer.pdb
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\PR283assignment2\Filer\UnitTestProject1\obj\Debug\FilerTests.csprojResolveAssemblyReference.cache
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\PR283assignment2\Filer\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\PR283assignment2\Filer\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\CourseMaterial\PR293\Assignment2\PR283assignment2\Filer\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\CourseMaterial\PR293\Assignment2\PR283assignment2\Filer\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\CourseMaterial\PR293\Assignment2\PR283assignment2\Filer\UnitTestProject1\bin\Debug\Filer.exe
+F:\CourseMaterial\PR293\Assignment2\PR283assignment2\Filer\UnitTestProject1\bin\Debug\Filer.pdb
+F:\CourseMaterial\PR293\Assignment2\PR283assignment2\Filer\UnitTestProject1\obj\Debug\FilerTests.csprojResolveAssemblyReference.cache
+F:\CourseMaterial\PR293\Assignment2\PR283assignment2\Filer\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\CourseMaterial\PR293\Assignment2\PR283assignment2\Filer\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
