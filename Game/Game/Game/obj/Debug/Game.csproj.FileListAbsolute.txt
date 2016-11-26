@@ -8,3 +8,5 @@ F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\Game\obj\D
 F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
 F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\Game\obj\Debug\Game.exe
 F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\Game\obj\Debug\Game.pdb
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\Game\bin\Debug\Filer.exe
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\Game\bin\Debug\Filer.pdb

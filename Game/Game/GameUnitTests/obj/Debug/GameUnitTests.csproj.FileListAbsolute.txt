@@ -1,8 +1,9 @@
 F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\GameUnitTests\bin\Debug\GameUnitTests.dll
 F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\GameUnitTests\bin\Debug\GameUnitTests.pdb
 F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\GameUnitTests\bin\Debug\Game.exe
-F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\GameUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\GameUnitTests\bin\Debug\Game.pdb
 F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\GameUnitTests\obj\Debug\GameUnitTests.csprojResolveAssemblyReference.cache
 F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\GameUnitTests\obj\Debug\GameUnitTests.dll
 F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\GameUnitTests\obj\Debug\GameUnitTests.pdb
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\GameUnitTests\bin\Debug\Filer.exe
+F:\CourseMaterial(DO-NOT-DELETE)\Year4\PR283\AssignmentRedo\Game\Game\GameUnitTests\bin\Debug\Filer.pdb

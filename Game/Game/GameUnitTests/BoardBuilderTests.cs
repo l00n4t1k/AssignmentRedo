@@ -23,7 +23,7 @@ namespace GameUnitTests
         [ClassInitialize]
         public static void ClassInit(TestContext context)
         {
-            x = new string[] { "#", "-" };
+            x = new string[] { "#", "@" };
             y = new string[] { "-", "#" };
             testLevel = new string[][] { x, y };
         }
@@ -32,9 +32,9 @@ namespace GameUnitTests
         {
             BoardBuilder b = new BoardBuilder();
             b.CreateBoard(testLevel);
-            BoardObjects[] theBoard = b.GetTheBoard();
-            BoardObjects b1 = theBoard[0];
-            Assert.IsInstanceOfType(b1, typeof(BoardObjects));
+            BoardObject[] theBoard = b.GetTheBoard();
+            BoardObject b1 = theBoard[1];
+            Assert.IsInstanceOfType(b1, typeof(BoardObject));
         }
 
         [TestMethod]
@@ -42,8 +42,8 @@ namespace GameUnitTests
         {
             BoardBuilder b = new BoardBuilder();
             b.CreateBoard(testLevel);
-            BoardObjects[] theBoard = b.GetTheBoard();
-            BoardObjects b1 = theBoard[0];
+            BoardObject[] theBoard = b.GetTheBoard();
+            BoardObject b1 = theBoard[1];
             Assert.AreEqual(b1.MyXCoord, 0);
         }
 
@@ -52,8 +52,28 @@ namespace GameUnitTests
         {
             BoardBuilder b = new BoardBuilder();
             b.CreateBoard(testLevel);
-            BoardObjects[] theBoard = b.GetTheBoard();
-            BoardObjects b1 = theBoard[0];
+            BoardObject[] theBoard = b.GetTheBoard();
+            BoardObject b1 = theBoard[1];
+            Assert.AreEqual(b1.MyYCoord, 0);
+        }
+
+        [TestMethod]
+        public void Test_Player_Has_Correct_X_Coord()
+        {
+            BoardBuilder b = new BoardBuilder();
+            b.CreateBoard(testLevel);
+            BoardObject[] theBoard = b.GetTheBoard();
+            BoardObject b1 = theBoard[0];
+            Assert.AreEqual(b1.MyXCoord, 1);
+        }
+
+        [TestMethod]
+        public void Test_Player_Has_Correct_Y_Coord()
+        {
+            BoardBuilder b = new BoardBuilder();
+            b.CreateBoard(testLevel);
+            BoardObject[] theBoard = b.GetTheBoard();
+            BoardObject b1 = theBoard[0];
             Assert.AreEqual(b1.MyYCoord, 0);
         }
 
@@ -62,8 +82,8 @@ namespace GameUnitTests
         {
             BoardBuilder b = new BoardBuilder();
             b.CreateBoard(testLevel);
-            BoardObjects[] theBoard = b.GetTheBoard();
-            BoardObjects b1 = theBoard[0];
+            BoardObject[] theBoard = b.GetTheBoard();
+            BoardObject b1 = theBoard[1];
             Assert.AreEqual(b1.MyType, "Wall");
         }
     }

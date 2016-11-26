@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnitTests", "GameUnitTests\GameUnitTests.csproj", "{8D1FA60D-D74D-4DD0-B678-C20561211C6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filer", "..\..\..\PR283assignment2\Filer\Filer\Filer.csproj", "{CED662A2-8AF5-4A4F-ADDE-CFCB086940AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8D1FA60D-D74D-4DD0-B678-C20561211C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D1FA60D-D74D-4DD0-B678-C20561211C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D1FA60D-D74D-4DD0-B678-C20561211C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED662A2-8AF5-4A4F-ADDE-CFCB086940AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED662A2-8AF5-4A4F-ADDE-CFCB086940AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED662A2-8AF5-4A4F-ADDE-CFCB086940AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED662A2-8AF5-4A4F-ADDE-CFCB086940AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
